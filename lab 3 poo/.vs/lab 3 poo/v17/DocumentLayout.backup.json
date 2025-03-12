@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio\\lab 3 poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438A6C88-2CB7-4BD6-808F-A8313F75DEE3}|lab 3 poo\\lab 3 poo.vcxproj|C:\\Visual Studio\\lab 3 poo\\lab 3 poo\\lab 3 poo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{438A6C88-2CB7-4BD6-808F-A8313F75DEE3}|lab 3 poo\\lab 3 poo.vcxproj|solutionrelative:lab 3 poo\\lab 3 poo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab 3 poo.cpp",
+              "DocumentMoniker": "C:\\Visual Studio\\lab 3 poo\\lab 3 poo\\lab 3 poo.cpp",
+              "RelativeDocumentMoniker": "lab 3 poo\\lab 3 poo.cpp",
+              "ToolTip": "C:\\Visual Studio\\lab 3 poo\\lab 3 poo\\lab 3 poo.cpp",
+              "RelativeToolTip": "lab 3 poo\\lab 3 poo.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T14:13:39.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
